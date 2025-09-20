@@ -1,4 +1,9 @@
-## Hi there 👋
+<h2 align=center> Hi, i'm Miguel, Information Systems bachelor at PUC-Minas. 🇧🇷 </h2>
+
+<p align=center> In love with programming, linux and much more! </p> <br> 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesafk&show_icons=true&theme=monokai) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesafk&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Alvesafk/alvesafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
