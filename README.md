@@ -1,10 +1,8 @@
-beep... beep... beep...<br>
-Alves detected!
-
+<center>
+<strong><small>beep... beep... beep...</small></strong>
 <br>
-
+Alves detected!
 <hr>
 
-[![Alves's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvesafk&show-icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesafk&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alvesafk's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alvesafk&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Alvesafk&show_icons=true&theme=dark)
