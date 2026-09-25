@@ -2,7 +2,7 @@
 <strong><small>beep... beep... beep...</small></strong>
 <br>
 Alves detected!
-<hr>
+<br>
 
-[![Alvesafk's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alvesafk&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Alvesafk&show_icons=true&theme=dark)
+#
+![Alvesafk's GitHub stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=69860&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
